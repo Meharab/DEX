@@ -18,6 +18,7 @@ async function main() {
 
   // print the address of the deployed contract
   console.log("Exchange Contract Address:", deployedExchangeContract.address);
+  // 0x62F77E07fC40D284DE823964BfE69a025E293275
 }
 
 // Call the main function and catch if there is any error
