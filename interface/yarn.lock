@@ -231,9 +231,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@next/env@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-14.2.30.tgz#f955b57975751584722b6b0a2a8cf2bdcc4ffae3"
+"@next/env@14.2.35":
+  version "14.2.35"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-14.2.35.tgz#e979016d0ca8500a47d41ffd02625fe29b8df35a"
 
 "@next/eslint-plugin-next@12.3.1":
   version "12.3.1"
@@ -241,41 +241,41 @@
   dependencies:
     glob "7.1.7"
 
-"@next/swc-darwin-arm64@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.2.30.tgz#8179a35a068bc6f43a9ab6439875f6e330d02e52"
+"@next/swc-darwin-arm64@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.2.33.tgz#9e74a4223f1e5e39ca4f9f85709e0d95b869b298"
 
-"@next/swc-darwin-x64@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-14.2.30.tgz#87c08d805c0546a73c25a0538a81f8b5f43bd0e9"
+"@next/swc-darwin-x64@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-14.2.33.tgz#fcf0c45938da9b0cc2ec86357d6aefca90bd17f3"
 
-"@next/swc-linux-arm64-gnu@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.2.30.tgz#eed26d87d96d9ef6fffbde98ceed2c75108a9911"
+"@next/swc-linux-arm64-gnu@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-14.2.33.tgz#837f91a740eb4420c06f34c4677645315479d9be"
 
-"@next/swc-linux-arm64-musl@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.2.30.tgz#54b38b43c8acf3d3e0b71ae208a0bfca5a9b8563"
+"@next/swc-linux-arm64-musl@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-14.2.33.tgz#dc8903469e5c887b25e3c2217a048bd30c58d3d4"
 
-"@next/swc-linux-x64-gnu@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.2.30.tgz#0ee0419da4dc1211a4c925b0841419cd07aa6c59"
+"@next/swc-linux-x64-gnu@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-14.2.33.tgz#344438be592b6b28cc540194274561e41f9933e5"
 
-"@next/swc-linux-x64-musl@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.2.30.tgz#e88463d8c10dd600087b062f2dea59a515cd66f6"
+"@next/swc-linux-x64-musl@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-14.2.33.tgz#3379fad5e0181000b2a4fac0b80f7ca4ffe795c8"
 
-"@next/swc-win32-arm64-msvc@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.2.30.tgz#6975cbbab74d519b06d93210ed86cd4f3dbc1c4d"
+"@next/swc-win32-arm64-msvc@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-14.2.33.tgz#bca8f4dde34656aef8e99f1e5696de255c2f00e5"
 
-"@next/swc-win32-ia32-msvc@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.2.30.tgz#08ad4de2e082bc6b07d41099b4310daec7885748"
+"@next/swc-win32-ia32-msvc@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-14.2.33.tgz#a69c581483ea51dd3b8907ce33bb101fe07ec1df"
 
-"@next/swc-win32-x64-msvc@14.2.30":
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.30.tgz#94d3ddcc1e97572a0514a6180c8e3bb415e1dc98"
+"@next/swc-win32-x64-msvc@14.2.33":
+  version "14.2.33"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.33.tgz#f1a40062530c17c35a86d8c430b3ae465eb7cea1"
 
 "@noble/curves@1.2.0":
   version "1.2.0"
@@ -1335,11 +1335,11 @@ natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
 
-next@14.2.30:
-  version "14.2.30"
-  resolved "https://registry.yarnpkg.com/next/-/next-14.2.30.tgz#7b7288859794574067f65d6e2ea98822f2173006"
+next@14.2.35:
+  version "14.2.35"
+  resolved "https://registry.yarnpkg.com/next/-/next-14.2.35.tgz#7c68873a15fe5a19401f2f993fea535be3366ee9"
   dependencies:
-    "@next/env" "14.2.30"
+    "@next/env" "14.2.35"
     "@swc/helpers" "0.5.5"
     busboy "1.6.0"
     caniuse-lite "^1.0.30001579"
@@ -1347,15 +1347,15 @@ next@14.2.30:
     postcss "8.4.31"
     styled-jsx "5.1.1"
   optionalDependencies:
-    "@next/swc-darwin-arm64" "14.2.30"
-    "@next/swc-darwin-x64" "14.2.30"
-    "@next/swc-linux-arm64-gnu" "14.2.30"
-    "@next/swc-linux-arm64-musl" "14.2.30"
-    "@next/swc-linux-x64-gnu" "14.2.30"
-    "@next/swc-linux-x64-musl" "14.2.30"
-    "@next/swc-win32-arm64-msvc" "14.2.30"
-    "@next/swc-win32-ia32-msvc" "14.2.30"
-    "@next/swc-win32-x64-msvc" "14.2.30"
+    "@next/swc-darwin-arm64" "14.2.33"
+    "@next/swc-darwin-x64" "14.2.33"
+    "@next/swc-linux-arm64-gnu" "14.2.33"
+    "@next/swc-linux-arm64-musl" "14.2.33"
+    "@next/swc-linux-x64-gnu" "14.2.33"
+    "@next/swc-linux-x64-musl" "14.2.33"
+    "@next/swc-win32-arm64-msvc" "14.2.33"
+    "@next/swc-win32-ia32-msvc" "14.2.33"
+    "@next/swc-win32-x64-msvc" "14.2.33"
 
 object-assign@^4.1.1:
   version "4.1.1"
